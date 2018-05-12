@@ -1,0 +1,41 @@
+_repo: Cosmos--A-Sketch-of-the-Physical-Description-of-the-Universe-Vol.-1_14565
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Otté, E. C. (Elise C.)
+    aliases:
+    - Otte, E. C. (Elise C.)
+    - Otté, Elise C.
+    gutenberg_agent_id: '39452'
+    url: http://www.gutenberg.org/2009/agents/39452
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Humboldt, Alexander von
+    aliases:
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    - Von Humboldt, Alexander
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
+description: ''
+gutenberg_issued: '2005-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy'
+- !lcsh 'Cosmography'
+- !lcc 'Q'
+- !lcsh 'Physical geography'
+- !lcsh 'Science -- History'
+title: 'Cosmos: A Sketch of the Physical Description of the Universe, Vol. 1'
+url: http://www.gutenberg.org/ebooks/14565
