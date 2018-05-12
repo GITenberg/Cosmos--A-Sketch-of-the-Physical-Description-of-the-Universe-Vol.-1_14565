@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1995
     wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14565#Cosmos--A-Sketch-of-the-Physical-Description-of-the-Universe-Vol.-1
 gutenberg_issued: '2005-01-03'
 gutenberg_type: Text
 identifiers:
